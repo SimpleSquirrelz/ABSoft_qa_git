@@ -1,2 +1,3 @@
 First feature
 Hotfix
+Changed by feature 3
