@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @InaKrasnokutska
+- 👀 I’m interested in programming, testing and teaching
+- 🌱 I’m currently learning Automation Testing with Java
+- 💞️ I’m looking to collaborate on some projects
+- 📫 How to reach me TG
